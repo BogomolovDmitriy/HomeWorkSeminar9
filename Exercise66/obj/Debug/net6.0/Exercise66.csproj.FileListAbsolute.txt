@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.exe
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.deps.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.runtimeconfig.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\bin\Debug\net6.0\Exercise66.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\refint\Exercise66.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\Exercise66.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar9\Exercise66\obj\Debug\net6.0\ref\Exercise66.dll
